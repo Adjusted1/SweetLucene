@@ -1,0 +1,9 @@
+sweet / easy lucene.net v_29 wrapper
+
+implemented (abstract) base class provided
+
+todo: add RAM index option to base class
+todo: refactor hard coded logging
+
+sweetlucene.dll v0.9
+
