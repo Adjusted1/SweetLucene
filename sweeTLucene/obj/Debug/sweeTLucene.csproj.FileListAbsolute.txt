@@ -1,8 +1,0 @@
-C:\Users\Sheila\Documents\Visual Studio 2015\Projects\sweeTLucene\sweeTLucene\obj\Debug\sweeTLucene.csprojResolveAssemblyReference.cache
-C:\Users\Sheila\Documents\Visual Studio 2015\Projects\sweeTLucene\sweeTLucene\bin\Debug\sweeTLucene.dll
-C:\Users\Sheila\Documents\Visual Studio 2015\Projects\sweeTLucene\sweeTLucene\bin\Debug\sweeTLucene.pdb
-C:\Users\Sheila\Documents\Visual Studio 2015\Projects\sweeTLucene\sweeTLucene\bin\Debug\Lucene.Net.dll
-C:\Users\Sheila\Documents\Visual Studio 2015\Projects\sweeTLucene\sweeTLucene\bin\Debug\Lucene.Net.pdb
-C:\Users\Sheila\Documents\Visual Studio 2015\Projects\sweeTLucene\sweeTLucene\bin\Debug\Lucene.Net.xml
-C:\Users\Sheila\Documents\Visual Studio 2015\Projects\sweeTLucene\sweeTLucene\obj\Debug\sweeTLucene.dll
-C:\Users\Sheila\Documents\Visual Studio 2015\Projects\sweeTLucene\sweeTLucene\obj\Debug\sweeTLucene.pdb
