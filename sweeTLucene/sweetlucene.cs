@@ -6,9 +6,6 @@ using Lucene.Net.Analysis.Standard;
 using Lucene.Net.QueryParsers;
 using Lucene.Net.Analysis;
 
-/* note - todo: clean up hard coded results to text file implementation */
-/* you can comment this out / refactor */
-
 /* lucene version is lucene_29 */
 
 namespace sweeTLucene
