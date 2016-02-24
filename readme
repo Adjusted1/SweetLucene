@@ -2,8 +2,9 @@ sweet / easy lucene.net v_29 wrapper
 
 implemented (abstract) base class provided
 
-todo: add RAM index option to base class
-todo: refactor hard coded logging
+sweetlucene.dll v0.95
 
-sweetlucene.dll v0.9
+sample usage:
 
+SweetLuceneWrapper wrapper1 = new SweetLuceneWrapper();            
+TextBox1.Text = wrapper1.LucGo(index: true, ramindex: false, search: true, lookinside: true, path: @"c:\temp", queryStr: "test", fileExtensionsToIndex: new List<string>() { ".txt" });
