@@ -1,6 +1,6 @@
 sweet / easy lucene.net v_29 wrapper
 
-implemented (abstract) base class provided
+implemented (abstract) base class provided - Exception handling not implemented fully.
 
 sweetlucene.dll v0.95
 
