@@ -1,10 +1,18 @@
-sweet / easy lucene.net v_29 wrapper
+sweet / easy lucene_29 wrapper
 
-implemented (abstract) base class provided - Exception handling not implemented fully.
+Implemented (abstract) base class provided, for both storage and RAM indexing.
+
+I used this for a Hadoop environment with RAM indeces buit from SSD pdf files
 
 sweetlucene.dll v0.95
 
 sample usage:
 
 SweetLuceneWrapper wrapper1 = new SweetLuceneWrapper();            
-TextBox1.Text = wrapper1.LucGo(index: true, ramindex: false, search: true, lookinside: true, path: @"c:\temp", queryStr: "test", fileExtensionsToIndex: new List<string>() { ".txt" });
+TextBox1.Text = wrapper1.LucGo(index: true, 
+                               ramindex: false, 
+                               search: true, 
+                               lookinside: true, 
+                               path: @"c:\temp", 
+                               queryStr: "brokebloke", 
+                               fileExtensionsToIndex: new List<string>() { ".txt" });
