@@ -2,8 +2,6 @@ sweet / easy lucene_29 wrapper
 
 Implemented (abstract) base class provided, for both storage and RAM indexing.
 
-I used this for a Hadoop environment with RAM indeces buit from SSD pdf files
-
 sweetlucene.dll v0.95
 
 sample usage:
